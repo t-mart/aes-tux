@@ -54,4 +54,4 @@ cbc_image = Image.frombytes(mode, size, cbc_ciphertext)
 cbc_image.save(output_dir_path / "tux.aes-cbc.1x.png")
 
 cbc_image_upscaled = cbc_image.resize(upscaled_size, Image.NEAREST)
-cbc_image_upscaled.save(output_dir_path / f"tux.cbc-ecb.{resize_scale_factor}x.png")
+cbc_image_upscaled.save(output_dir_path / f"tux.aes-cbc.{resize_scale_factor}x.png")

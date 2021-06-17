@@ -28,14 +28,14 @@ popular reference for learning about ECB:
 ![ECB encrypted Tux image](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-ecb.1x.png)
 
 [source](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-ecb.1x.png),
-[source 4x upscaled](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-ecb.4x.png)
+[source 16x upscaled](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-ecb.16x.png)
 
 ### CBC Encrypted
 
 ![CBC encrypted Tux image](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-cbc.1x.png)
 
 [source](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-cbc.1x.png),
-[source 4x upscaled](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-cbc.4x.png)
+[source 16x upscaled](https://raw.githubusercontent.com/t-mart/aes-tux/master/output/tux.aes-cbc.16x.png)
 
 ## Image Used
 
